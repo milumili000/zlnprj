@@ -1,0 +1,9 @@
+<script type="text/javascript" src="/static/h-ui/js/H-ui.js"></script> 
+<script type="text/javascript" src="/static/h-ui.admin/js/H-ui.admin.js"></script> 
+<script type="text/javascript" src="/static/lib/layer/2.1/layer.js"></script> 
+<script type="text/javascript" src="/static/lib/icheck/jquery.icheck.min.js"></script> 
+<script type="text/javascript" src="/static/lib/jquery.validation/1.14.0/jquery.validate.min.js"></script> 
+<script type="text/javascript" src="/static/lib/jquery.validation/1.14.0/validate-methods.js"></script> 
+<script type="text/javascript" src="/static/lib/jquery.validation/1.14.0/messages_zh.min.js"></script> 
+<script type="text/javascript" src="/static/js/jquery.validate.extension.js"></script>
+<script type="text/javascript" src="/static/js/tool.js"></script>

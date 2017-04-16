@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zlnprj:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="zlnprj.war">
+      <element id="artifact" artifact-name="zlnprj:war exploded" />
+    </root>
+  </artifact>
+</component>
